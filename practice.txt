@@ -1,0 +1,4 @@
+how to push local git repository to github.
+git remote add origin url
+git remote -v
+git push origin master
